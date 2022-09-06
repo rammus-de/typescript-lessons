@@ -1,0 +1,9 @@
+we have talked about these things :
+
+include
+exclude
+target
+outdir
+strictmode
+noimplicitany
+strictnullcheck
